@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "space invaders": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
